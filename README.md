@@ -9,7 +9,7 @@
 - Letícia Bortnik Machado Dias Vasconcelos
 - Késsily Rosendo de Moraes
 - Claudete Elvira da Silva
-- Elian
+- Elian Soares Vidal
 - Kellyson
 
 
