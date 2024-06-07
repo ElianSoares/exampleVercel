@@ -1,50 +1,34 @@
-# On17-TodasEmTech-ProjetoListToDo
-
-Na nossa Aula!
-
-- Breve Revisão:
+Revisão:
   - DOM;
   - Objetos;
   - Arrays;
   - Eventos;
-- Iniciaremos o Projeto ToDoList
-
 
 <br>
 
 
-## Acordos
-
-- Manter atenção nas explicações e codar nos momentos definidos a cada passo do projeto;
-- Enviar dúvidas no chat para as monitoras ajudarem;
-- Levantar a mão sempre que desejar falar, o que pode ser feito a qualquer momento;
-- Manter microfones desligados sempre que alguém estiver falando;
-- Manter as câmeras ligadas o máximo de tempo possível para cada aluna!
 
 ## Informações gerais sobre o projeto
 
 - Criaremos uma `To Do List`: uma lista para organizar tarefas;
 - Este projeto tem como objetivo exercitar os conceitos aprendidos até aqui: Lógica, HTML, CSS e JavaScript;
-- Não é permitido o uso de nenhuma biblioteca/framework para construção do projeto;
-- Temos um layout que deve ser seguido, mas é permitido incrementar seu projeto para entregar; 
 
 ### Instruções:
 
-##### 1. Entre no [repositório da aula](https://github.com/reprograma/On17-TodasEmTech-ListToDo) e crie um __fork__; _(isso criará uma cópia do repositório original no seu github)_
 
-##### 2. Clone o repositório forkado para a sua máquina
+##### 1. Clone o repositório forkado para a sua máquina
 
    ```
    git clone <link do repositório forkado>
    ```
 
-##### 3. Crie uma `branch` com o seu nome
+##### 2. Crie uma `branch` com o seu nome
 
    ```
    git checkout -b "seu-nome"
    ```
 
-##### 4. Faça uma cópia da pasta projeto e a altere para o seu nome
+##### 3. Faça uma cópia da pasta projeto e a altere para o seu nome
 
   ```
     ├── README.md
@@ -53,7 +37,6 @@ Na nossa Aula!
     |  
 
    ```
-##### 5. Mãos na massa! <3
 
 ## Plano de aula
 
@@ -185,9 +168,9 @@ Usamos o método preventDefault() para cancelar a ação padrão que pertence a 
 #### 2.1. Etapas
 
 - __1.__ HTML 
-  - [x] Já vai prontinho pra vcs se preocuparem apenas com a lógica;
+  - [x] Já vai prontinho, pra se preocupar apenas com a lógica;
 - __2.__ CSS
-  - [x] Já vai prontinho pra vcs se preocuparem apenas com a lógica;
+  - [x] Já vai prontinho, pra se preocupar apenas com a lógica;
   - __3.__ JavaScript
   - [x] __3.1__ Capturar dados de __Entrada__ da usuária;
   - [x] __3.2__ Adicionar itens na lista;
@@ -214,8 +197,3 @@ Usamos o método preventDefault() para cancelar a ação padrão que pertence a 
 | DOM           | MDN                | https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model              |
 | Eventos       | MDN                | https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/Building_blocks/Events    |
 
-## Agradecimento:  
-
-- [Professora Liliti]de quem usei o repositório do projeto da turma 10 como referência;
-
-E todas as minhas professoras e amigas do {reprograma} com quem sempre aprendo ♥️
