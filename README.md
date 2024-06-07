@@ -5,7 +5,6 @@
 #### Alunos
 
 - Raissa Maria Silva Barata Pereira
-- Laila Maria Silva Pereira
 - Letícia Bortnik Machado Dias Vasconcelos
 - Késsily Rosendo de Moraes
 - Claudete Elvira da Silva
