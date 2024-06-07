@@ -38,8 +38,6 @@ Revisão:
 
    ```
 
-## Plano de aula
-
 ### 1. Revisão:
 
 #### 1.1. Objetos
