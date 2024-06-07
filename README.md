@@ -1,17 +1,22 @@
-Revisão:
-  - DOM;
-  - Objetos;
-  - Arrays;
-  - Eventos;
+
 
 <br>
 
+#### Alunos
+
+- Raissa Maria Silva Barata Pereira
+- Laila Maria Silva Pereira
+- Letícia Bortnik Machado Dias Vasconcelos
+- Késsily Rosendo de Moraes
+- Claudete Elvira da Silva
+- Elian
+- Kellyson
 
 
 ## Informações gerais sobre o projeto
 
 - Criaremos uma `To Do List`: uma lista para organizar tarefas;
-- Este projeto tem como objetivo exercitar os conceitos aprendidos até aqui: Lógica, HTML, CSS e JavaScript;
+- projeto criado com intuito de aprofundar nosso estudos de Nuvem subindo nossa aplicação na plataforma Vercel, assim como também para treinar e revisar conceitos básicos de manipulação do DOM, objetos, array e eventos.
 
 ### Instruções:
 
@@ -165,10 +170,6 @@ Usamos o método preventDefault() para cancelar a ação padrão que pertence a 
 
 #### 2.1. Etapas
 
-- __1.__ HTML 
-  - [x] Já vai prontinho, pra se preocupar apenas com a lógica;
-- __2.__ CSS
-  - [x] Já vai prontinho, pra se preocupar apenas com a lógica;
   - __3.__ JavaScript
   - [x] __3.1__ Capturar dados de __Entrada__ da usuária;
   - [x] __3.2__ Adicionar itens na lista;
